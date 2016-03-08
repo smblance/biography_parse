@@ -1,5 +1,5 @@
 ##Linkedin Bio Scraper
-Parsing linkedin bios by people's names.
+Scraping LinkedIn bios by names.<br>
 Made for the Founders&Devs meetups.
 
 Usage:<br>
